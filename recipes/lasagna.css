@@ -1,0 +1,28 @@
+body {
+  font-family:cursive;
+  background-color:bisque
+}
+
+h1 {
+  color:black;
+  font-size: 40px;
+}
+
+h3 {
+  color:black;
+  font-size: 30px;
+}
+
+.Introduction {
+  font-size: 22px;
+  color:goldenrod;
+}
+
+.Instructions {
+  font-size: 24px;
+  color: black;
+}
+
+li {
+  color:goldenrod;
+}

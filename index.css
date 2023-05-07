@@ -1,0 +1,29 @@
+body {
+  font-family:cursive;
+  background-color: beige;
+}
+
+h1 {
+  color:indigo;
+  font-size: 40px;
+}
+
+h2 {
+  color:indigo;
+  font-size: 30px;
+}
+
+.Introduction {
+  font-size: 22px;
+  color:darkblue;
+}
+
+.Recipes {
+  color:orange;
+  font-size: 26px;
+}
+
+li a {
+  color:cornflowerblue;
+}
+
